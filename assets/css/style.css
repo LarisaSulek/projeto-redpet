@@ -13,7 +13,7 @@ header {
     background-image: url(../images/bremen-town-musicians-1651945_960_720.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: bottom;
+    background-position: center center;
     position: relative;
     
 }
@@ -107,7 +107,7 @@ header #logo {
 #register button {
     width: 100%;
     border: none;
-    background: #e67e22;
+    background: #660000;
     color: #fff;
     padding: .75rem;
     font-size: 1.2em;
